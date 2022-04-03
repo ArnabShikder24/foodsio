@@ -1,0 +1,11 @@
+.left-border {
+    border-left: 5px solid #6610f2;
+    padding-left: 5px;
+}
+.review-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    row-gap: 20px;
+    justify-items: center;
+}

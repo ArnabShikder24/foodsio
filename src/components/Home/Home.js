@@ -1,9 +1,12 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import useReviews from '../../hooks/useReviews';
+import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
+    const [reviews] = useReviews()
 
     return (
         <>
@@ -17,8 +20,12 @@ const Home = () => {
             </div>
 
             <Container className='py-5'>
-                <h2 className='left-border'>Customer Reviews</h2>
-
+                <h2 className='left-border mb-5'>Customer Reviews: {reviews.length}</h2>
+                <div className='review-section'>
+                    {
+                        reviews.slice(0, 3).map(review => <Review key={review._id} review={review}></Review>)
+                    }
+                </div>
                 <div className='text-end'>
                 <Link to='/reviews' className='btn custom-btn mt-5'>See All Reviews</Link>
                 </div>
