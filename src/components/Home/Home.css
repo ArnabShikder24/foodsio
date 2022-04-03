@@ -9,13 +9,24 @@
     text-align: justify;
     width: 50%;
 }
-.about-btn {
+.custom-btn {
     background-color: #6610f2 !important;
     color: #ffffff !important;
     border-radius: 0 !important;
     border: none !important;
     padding: 10px 45px !important;
 }
+
+.left-border {
+    border-left: 5px solid #6610f2;
+    padding-left: 5px;
+}
+
+
+
+
+
+
 @media only screen and (max-width: 768px) {
     .banner {
         height: 100vh;
@@ -25,7 +36,7 @@
         width: 100%;
     }
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1000px) {
     .banner {
         height: 100vh;
     } 

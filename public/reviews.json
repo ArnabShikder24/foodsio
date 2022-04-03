@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "6249fb7ac4bc347b0d3e7f9e",
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+      "rating": 5,
+      "name": "Griffith Hebert",
+      "email": "griffithhebert@dancity.com",
+      "address": "287 Ovington Avenue, Weeksville, Virginia, 2702",
+      "about": "The holidays with my family would have been totally different and even boring if it wasn't for your amazing desserts. Candies, cupcakes, macarons were simply unforgettable! The sweets are the best, especially with the great service and at affordable price. Thanks!"
+    },
+    {
+      "_id": "6249fb7aa0557139711047b9",
+      "img": "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg",
+      "rating": 4,
+      "name": "Rosario Sparks",
+      "email": "rosariosparks@dancity.com",
+      "address": "166 Sumner Place, Roderfield, Rhode Island, 9998",
+      "about": "Beautiful designs, bright colors and wonderful taste! I loved the cupcakes that we ordered for my kids Birthay Party last month! The flavor and texture were fantastic! And it's not that just the kids loved them - we all had a couple for ourselves to enjoy and savour."
+    },
+    {
+      "_id": "6249fb7a4980a97c5a15efb1",
+      "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+      "rating": 5,
+      "name": "Bettye Moss",
+      "email": "bettyemoss@dancity.com",
+      "address": "846 Cyrus Avenue, Loyalhanna, Puerto Rico, 5275",
+      "about": "Every time I host a party or have a special occasion, your desserts are a regular part of it! Sweet, delicious and amazingly lightweight, they make everyone fall in love with it immediately. Thank you for your amazing job, I appreciate fast delivery and the cost!"
+    },
+    {
+      "_id": "6249fb7a1750488360a45670",
+      "img": "https://images.pexels.com/photos/2294492/pexels-photo-2294492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "rating": 4,
+      "name": "Pansy Park",
+      "email": "pansypark@dancity.com",
+      "address": "210 Albee Square, Bannock, Oregon, 5344",
+      "about": "We had a lunch at Premium Sweets at Gulshan-2 branch. They have several types of sweets and food items, Their food presentation and service is a bit different from other restaurants in the city. Your choice of rice and meat or fish will be prepared in their special clay pot, topped with a butter naan with the Signature dish, they provided with chef's special onion salad. This is a very good place to have food with friends and family."
+    },
+    {
+      "_id": "6249fb7ad911a7c10872ee55",
+      "img": "https://images.pexels.com/photos/6477218/pexels-photo-6477218.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "rating": 5,
+      "name": "Joni Graves",
+      "email": "jonigraves@dancity.com",
+      "address": "560 Conklin Avenue, Edmund, Connecticut, 3886",
+      "about": "I had dinner from their Gulshan outlet and also bought sweets from Airport outlet. They have many different types of sweets and its so delicious but highly priced.One bad thing I observed,if you want to buy one piece of sweet from a particular variety, these guys charge exorbitantly high."
+    },
+    {
+      "_id": "6249fb7aebb81feaae5ef03c",
+      "img": "https://images.pexels.com/photos/2294493/pexels-photo-2294493.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "rating": 5,
+      "name": "Witt Frye",
+      "email": "wittfrye@dancity.com",
+      "address": "526 Caton Avenue, Bluetown, Michigan, 3710",
+      "about": "Last week I purchased 4 items from same Malibag showroom. I found that Sweets are not fit for consume. After phone call they said to return that for replacement. My question is why they gave me such thing? We are not such kind of people who have much time in hand go there again for replacement. Why I have to go there again? They should check while delivery the goods."
+    }
+  ]
