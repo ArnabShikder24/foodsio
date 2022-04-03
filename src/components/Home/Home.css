@@ -1,0 +1,32 @@
+.banner  {
+    background-image: url('../../assets/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.info {
+    text-align: justify;
+    width: 50%;
+}
+.about-btn {
+    background-color: #6610f2 !important;
+    color: #ffffff !important;
+    border-radius: 0 !important;
+    border: none !important;
+    padding: 10px 45px !important;
+}
+@media only screen and (max-width: 768px) {
+    .banner {
+        height: 100vh;
+    }
+    .info {
+        text-align: justify;
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .banner {
+        height: 100vh;
+    } 
+}

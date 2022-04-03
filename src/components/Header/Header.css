@@ -1,0 +1,8 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo img  {
+    width: 23px;
+    padding-right: 3px;
+}

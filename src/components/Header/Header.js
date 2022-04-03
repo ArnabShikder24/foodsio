@@ -1,13 +1,17 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
+import './Header.css'
 
 const Header = () => {
     return (
         <div>
             <Navbar bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand href="#home">Foodsio</Navbar.Brand>
+                    <Navbar.Brand className='logo' href="/home">
+                        <img src="logo.png" alt='Logo' />
+                        <span>Foodsio</span>
+                    </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
