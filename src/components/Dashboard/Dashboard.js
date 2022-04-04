@@ -14,7 +14,7 @@ const Dashboard = () => {
                     <Line type="monotone" dataKey="sell" stroke="#8884d8" />
                     <Line type="monotone" dataKey="revenue" stroke="#82ca9d" />
                     <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
-                    <XAxis dataKey="name" />
+                    <XAxis dataKey="month" />
                     <YAxis />
                     <Tooltip />
                 </LineChart>
