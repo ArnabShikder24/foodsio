@@ -20,7 +20,7 @@ const Home = () => {
             </div>
 
             <Container className='py-5'>
-                <h2 className='left-border mb-5'>Customer Reviews: {reviews.length}</h2>
+                <h2 className='left-border mb-5'>Customer Reviews</h2>
                 <div className='review-section'>
                     {
                         reviews.slice(0, 3).map(review => <Review key={review._id} review={review}></Review>)

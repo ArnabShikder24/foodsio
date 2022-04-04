@@ -1,10 +1,11 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const About = () => {
     return (
-        <div>
-            <h1>I am from About</h1>
-        </div>
+        <Container className='my-5'>
+            <h2 className='left-border'>About Us</h2>
+        </Container>
     );
 };
 

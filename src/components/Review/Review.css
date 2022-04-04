@@ -1,5 +1,5 @@
 .review-card {
-    width: 350px;
+    width: 310px;
     padding: 20px;
     box-shadow: rgba(108, 117, 126, 0.2) 0px 8px 24px;
     border-radius: 10px;
@@ -17,7 +17,7 @@
 .review-des {
     text-align: justify;
 }
-svg {
+.star-icon {
     width: 22px;
     color: gold;
 }

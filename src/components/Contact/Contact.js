@@ -1,10 +1,11 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const Contact = () => {
     return (
-        <div>
-            <h1>I am from Contact</h1>
-        </div>
+        <Container className='my-5'>
+            <h2 className='left-border'>Contact Us</h2>
+        </Container>
     );
 };
 

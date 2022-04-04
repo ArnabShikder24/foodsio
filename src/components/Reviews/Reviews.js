@@ -6,7 +6,7 @@ import Review from '../Review/Review';
 const Reviews = () => {
     const [reviews] = useReviews()
     return (
-        <Container className='py-4 mb-5'>
+        <Container className='py-5 mb-5'>
             <h2 className='left-border mb-5'>All Reviews</h2>
             <div className='review-section'>
                 {

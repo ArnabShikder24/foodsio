@@ -1,7 +1,7 @@
 [
     {
       "_id": "6249fb7ac4bc347b0d3e7f9e",
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "rating": 5,
       "name": "Griffith Hebert",
       "email": "griffithhebert@dancity.com",
@@ -10,7 +10,7 @@
     },
     {
       "_id": "6249fb7aa0557139711047b9",
-      "img": "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg",
+      "img": "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "rating": 4,
       "name": "Rosario Sparks",
       "email": "rosariosparks@dancity.com",
@@ -19,7 +19,7 @@
     },
     {
       "_id": "6249fb7a4980a97c5a15efb1",
-      "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+      "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "rating": 5,
       "name": "Bettye Moss",
       "email": "bettyemoss@dancity.com",
